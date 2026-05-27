@@ -1,4 +1,16 @@
-#Cash_Lyf
-CashLyf is an expense tracker that Tracks you income and expenses, help save you money and have a overview of your expenses according to their catagory. 
-I've used flatter and dart and firebase to complete this project.
-I've uploaded the library folder (lib) of my project in this repository. 
+# cash_lyf
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
